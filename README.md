@@ -2,6 +2,8 @@
 
 Free Website Template For Your Discord Bot (html,css)
 
+Example: https://bot-template.netlify.app
+
 Discord Server: https://discord.gg/dNTwhCGcjY
 
 If You Dont Want To Setup The Template I Can Set It Up For You For 5$
